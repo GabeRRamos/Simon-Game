@@ -23,8 +23,8 @@ function makeSound(key){
         case "yellow":
             var audio = new Audio("./sounds/yellow.mp3");
             audio.play();
-            break;
-    
+
+            
         default:
             break;
     };
